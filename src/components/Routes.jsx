@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Contacts from './Contacts';
 import NotFound from './NotFound';
-import ElectronicsRoute from '../Routes/ElectronicsRoute';
+import ElectronicsRoute from '../routes/ElectronicsRoute';
 
 function Routes() {
   return (
